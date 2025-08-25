@@ -11,7 +11,7 @@ try:
     api_key = os.getenv('GEMINI_API_KEY')
     if not api_key:
         # Fallback to hardcoded key (not recommended for production)
-        api_key = "AIzaSyD3zhOZu_4fN2CoxblWheOsma7Bkn5okyk"
+        api_key = "Your_Api_Key"
     
     genai.configure(api_key=api_key)
     gemini_model = genai.GenerativeModel('gemini-1.5-flash')
